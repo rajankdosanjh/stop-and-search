@@ -6,8 +6,8 @@ This project contains a spatial analysis of stop and search rates in London (by 
 ## Contents
 -	Jupyter Lab Notebook of analysis – contains pandas, geopandas, map creation, standardization, matplot lib, OLS Regression Model, seaborn
 -	CSV Files:
-o	Census data related to crime and sorted by LSOA from 2011-2021
-o	LSOA dataset containing data from the London Data Store, OS Vector Map, NOMIS and BEIS
+    -> Census data related to crime and sorted by LSOA from 2011-2021
+    ->LSOA dataset containing data from the London Data Store, OS Vector Map, NOMIS and BEIS
 These two files were merged to create a csv file called ‘Ethnicity12_Weapons’.
 
 ## Access
